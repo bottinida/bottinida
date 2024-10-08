@@ -24,11 +24,17 @@
 - MGT 8803: Analysis of Unstructured Data
 - CS 6750: Human-Computer interaction
 
+<h2> 💻 Skills and Tools </h2>
+
+[![My Skills](https://skillicons.dev/icons?i=anaconda,pycharm,py,r,regex,sklearn,figma,visualstudio&perline=8)](https://skillicons.dev) 
+
 <h2> 🤳 Let's connect:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/daliabottini
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
