@@ -1,7 +1,7 @@
 <h1>Hi, I'm Dalia! 👋🏼 <br/><a href="https://www.linkedin.com/in/daliabottini/">Data Scientist and Researcher</a></h1>
 
 
-<h2> 👩🏽‍💻 Graduate Projects</h2>
+<h2> 👩🏽‍💻 Graduate Project</h2>
 
 - <b>A Study on Specialty Coffee and Consumer Preferences</b>
   - [The Great American Coffee Taste Test](https://github.com/bottinida/gactt.git)
