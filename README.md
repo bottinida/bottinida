@@ -24,7 +24,7 @@
 - MGT 6655: Business Data Preparation and Visualization
 - ISYE 7406: Data Mining and Statistical Learning
 - MGT 8803: Analysis of Unstructured Data
-- CS 6750: Human-Computer interaction
+- CS 6750: Human-Computer Interaction
 
 <h2> 💻 Some Skills and Tools </h2>
 
