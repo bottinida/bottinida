@@ -4,7 +4,8 @@
 <h2> 👩🏽‍💻 Graduate Project</h2>
 
 - <b>A Study on Specialty Coffee and Consumer Preferences</b>
-  - [The Great American Coffee Taste Test](https://github.com/bottinida/gactt.git)
+  - [The Great American Coffee Taste Test. Part 1](https://github.com/bottinida/gactt.git)
+  - [The Great American Coffee Taste Test. Part 2](https://github.com/bottinida/gactt.git)
 
 <h2> ✅ Certificates</h2>
 
