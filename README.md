@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dalia! 👋🏼 <br/><a href="https://www.linkedin.com/in/daliabottini/">Data Scientist and Researcher</a></h1>
+<h1>Hi, I'm Dalia! 👋🏼 <br/><a href="https://www.linkedin.com/in/daliabottini/">Data Analyst and Researcher</a></h1>
 
 
 <h2> 👩🏽‍💻 Graduate Project</h2>
