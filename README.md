@@ -5,7 +5,7 @@
 
 - <b>A Study on Specialty Coffee and Consumer Preferences</b>
   - [The Great American Coffee Taste Test. Part 1](https://github.com/bottinida/gactt.git)
-  - [Specialty Coffee Roasting Preference Analysis](https://github.com/bottinida/gactt_2.git)
+  - [Coffee Roasting Preference Analysis](https://github.com/bottinida/gactt_2.git)
 
 <h2> ✅ Certificates</h2>
 
