@@ -5,7 +5,7 @@ Welcome to my GitHub! 🎉 This is my space to experiment, learn, and work on pr
 <h2> 👩🏽‍💻 Graduate Project</h2>
 
 - <b>A Study on Specialty Coffee and Consumer Preferences</b>
-  - [The Great American Coffee Taste Test. Part 1](https://github.com/bottinida/gactt.git)
+  - [The Great American Coffee Taste Test. Part 1](https://github.com/bottinida/gactt.git): RF, MLR, Stepwise, Lasso and Ridge Regression
   - [Coffee Roasting Preference Analysis](https://github.com/bottinida/gactt_2.git): RF, Boosting (GBM), SVM, and MLR
 
 <h2> ✅ Certificates</h2>
