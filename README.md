@@ -1,5 +1,6 @@
 <h1>Hi, I'm Dalia! 👋🏼 <br/><a href="https://www.linkedin.com/in/daliabottini/">Data Analyst and Researcher</a></h1>
 
+Welcome to my GitHub! 🎉 This is my space to experiment, learn, and dive into projects that spark my curiosity or challenge me to explore new technologies and methods. While my professional expertise lies in healthcare research, confidentiality constraints prevent me from sharing that work here. Instead, you'll find projects that reflect my interests and growth as I explore diverse topics in data science and beyond. Thank you for stopping by!
 
 <h2> 👩🏽‍💻 Graduate Project</h2>
 
