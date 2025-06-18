@@ -9,8 +9,9 @@ Welcome to my GitHub! 🎉 This is my space to experiment, learn, and work on pr
   - [Coffee Roasting Preference Analysis](https://github.com/bottinida/gactt_2.git): RF, Boosting (GBM), SVM, and MLR
  
 <h2> 📄 Publications </h2>  
-- [Web-Based Decision Support System for Managing Periapical Radiolucencies in Root-Filled Teeth: Development and Effectiveness With Undergraduates](https://onlinelibrary.wiley.com/doi/10.1002/jdd.13870)
-- 
+
+- Bottini, D., Abella Sans, F., Sanchez, J. A. G., Abbott, P. V., Encinas, M., Irazusta, S., Rico, C., Durán-Sindreu, F., & Garcia-Font, M. (2025). Web-Based Decision Support System for Managing Periapical Radiolucencies in Root-Filled Teeth: Development and Effectiveness With Undergraduates. *Journal of dental education*, e13870. Advance online publication. (https://doi.org/10.1002/jdd.13870)
+- Bottini, D., Abella Sans, F., Sanchez, J. A. G., Abbott, P. V., Durán-Sindreu, F., & Garcia-Font, M. (2025). Usability and Perceived Usefulness of a Web-based Clinical Decision Support System for Managing Periapical Radiolucencies in Root-filled Teeth. *Journal of dental education*, e13953. Advance online publication. (https://doi.org/10.1002/jdd.13953)
 
 <h2> ✅ Certificates</h2>
 
