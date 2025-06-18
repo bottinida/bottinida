@@ -15,11 +15,12 @@ Welcome to my GitHub! 🎉 This is my space to experiment, learn, and work on pr
 
 <h2> ✅ Certificates</h2>
 
-- [IBM Designing User Interfaces and Experiences (UI/UX)](https://coursera.org/share/00fc4230e5256ce5c0042e63e2a73658)
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/5267b3bb267a240860f6763bad9f5039)
 - [DeepLearning.AI Mathematics for Machine Learning and Data Science](https://coursera.org/share/ccc628a880fe65410cca39199f08731b)
-- [Google Conduct UX Research and Test Early Concepts](https://coursera.org/share/24783da80b4b724dba45ecae1f163220)
 - [IBM Machine learning with Python](https://coursera.org/share/274aef6f32bdd2f59fed60f4ee60e764)
 - [IBM Data Science Methodology](https://coursera.org/share/ea5c1d2ba3a52ea795a000ea99d29055)
+- [IBM Designing User Interfaces and Experiences (UI/UX)](https://coursera.org/share/00fc4230e5256ce5c0042e63e2a73658)
+- [Google Conduct UX Research and Test Early Concepts](https://coursera.org/share/24783da80b4b724dba45ecae1f163220)
 
 <h2> 🐝 Completed courses from MS in Analytics @ Georgia Tech</h2>
 
